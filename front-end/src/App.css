@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(129, 129, 129) !important;
+  font-size: 16px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

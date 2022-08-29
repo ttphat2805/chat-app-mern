@@ -1,0 +1,18 @@
+.box-item-user {
+  background: #f8f9fa;
+  backdrop-filter: blur(30px);
+  border-radius: 8px;
+  padding: 8px 8px;
+  border: 1px solid #f8f9fa;
+  display: flex;
+  justify-content: start;
+  box-shadow: rgba(0, 0, 0, 0.15) 1px 1px 2.6px;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 8px;
+}
+.box-item-user:hover {
+  background: #319795;
+  color: #fff;
+  transition: all 0.2s ease-out;
+}

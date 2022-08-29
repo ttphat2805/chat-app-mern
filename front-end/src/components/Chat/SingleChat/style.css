@@ -1,0 +1,6 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  scrollbar-width: none;
+}
