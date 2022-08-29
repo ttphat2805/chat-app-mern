@@ -3,7 +3,7 @@
 
 App Chat Real Time 
 
-Front-End: ReactJS, Chakra.
+Front-End: ReactJS, Chakra-ui
 
 Back-End: NodeJS, JWT, Socket, MongoDB
 
